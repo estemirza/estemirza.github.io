@@ -62,9 +62,9 @@
             arrows: false,
             dots: false,
             autoplay: true,
-            autoplaySpeed: 1500,
+            autoplaySpeed: 1300,
             fade: true,
-            speed: 1500
+            speed: 1300
         });
     };
 
